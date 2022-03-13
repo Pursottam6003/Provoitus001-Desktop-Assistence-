@@ -1,14 +1,15 @@
 # Provoitus001 (Developing future)
 
-> **_Observing , Understanding the problem , Learning , Developing , Imporving , Learning... (cycyle continues )_**
+> ## **_Observing , Understanding the problem , Learning , Developing , Imporving , Learning... (cycyle continues )_**
 
 <br>
 
-<img src="image2..jpg"  width="650px" >
+ 
+>![image](assistent1img.jpg)
 
-<br>
 
->  #### Your **_Personal  Desktop Assistent_** developed by **Pursottam Sah**
+
+>  ### Your **_Personal  Desktop Assistent_** developed by **Pursottam Sah**
 
 <br>
 
@@ -37,7 +38,7 @@
 >    * Call your **friends/relatives** from desktop and have fun without distrubing your **phone** from charging. 
 <br>
 
->![image2](assistent1img.jpg)
+>![image2](image2..jpg)
 <br>
 
 > 3. **Opening Desktop apps** : Windows provides lots of apps but we usally uses 8-9 apps. **Examples**
@@ -48,7 +49,7 @@
 >
 >   * Ms word : for assisnment purspose only 
 >   * **_Anything_** : **You just have to tell the name of app like to open and it will open the app for you** 
-
+> ![image](image3.jpg)
 > 4. **Relaxing** : _" No doubt this app is so interactive with you, like it's your friend."_
 > * Open Youtube : **Play Music for relaxation**
 > * **Play Bhajans** : "Play your favourite bhajans"
