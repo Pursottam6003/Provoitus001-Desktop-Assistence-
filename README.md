@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="image2..jpg"  width="450px" >
+<img src="image2..jpg"  width="650px" >
 
 <br>
 
