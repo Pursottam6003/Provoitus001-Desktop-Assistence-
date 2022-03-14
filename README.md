@@ -1,4 +1,4 @@
-# Provoitus001 (Developing future)
+# **Provoitus001** (Developing future)
 
 > ## **_Observing , Understanding the problem , Learning , Developing , Imporving , Learning... (cycyle continues )_**
 
@@ -53,6 +53,17 @@
 > 4. **Relaxing** : _" No doubt this app is so interactive with you, like it's your friend."_
 > * Open Youtube : **Play Music for relaxation**
 > * **Play Bhajans** : "Play your favourite bhajans"
+> * **Play Games**: Yes you can play game just on one voice controll.
+>     * Action Games 
+>     * Adventure Games 
+>     * Shooting Games 
+>     * Educational Games
+>     * Puzzle Shooting 
+>     * Sports 
+>     * Defence Games 
+>     * Driving 
+>     * Board Games 
+>     * Arcade Games.
 > * **Asking Time** : You may ask about time and date
 > * **Social Media accounts**
     >   * **Github** : for checking and contribution in open source 
