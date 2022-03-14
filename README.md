@@ -4,7 +4,12 @@
 
 <br>
 
+
+## Hello Everyone!
+### Today i am glad to introduce my new project based on some bits of knowledge of _**Artificial Interlligence**_ and _**Machine Learning**_.  
  
+<br>
+
 >![image](assistent1img.jpg)
 
 
@@ -12,9 +17,6 @@
 >  ### Your **_Personal  Desktop Assistent_** developed by **Pursottam Sah**
 
 <br>
-
-## Hello Everyone!
-### Today i am glad to introduce my new project based on some bits of knowledge of Artificial Interlligence and Machine Learning  
 
 > **Observed the problem** : _" Today's time most of the our daily work are on computer even jobs/classes. So it makes our brain litrally boared and less concentrated  and we found ourselves **out of track**_ " 
 
@@ -72,4 +74,8 @@
     >   * **Facebook** : for fun purposes 
     >   * **Stackoverflow** : for latest information and question answering 
 
+
+> Lots More featues i will update in future and for that please give a star 
+>
+> Thank You
 > ## _**Copywrite policy valid upto 2080 (Dont try to copy code)**_
