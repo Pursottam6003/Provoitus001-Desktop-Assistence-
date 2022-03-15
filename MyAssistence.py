@@ -412,19 +412,55 @@ def intro():
     say('Please look on the screen  some commands and tips i can perform happily')
     print('\n\n\n')
 
-    print('Would you like to select the Assistent Controll\n 1 for voice controll or 2 for  keyboard')
+    print('Would you like to select the Assistent Controll\n 1 for voice controll or 2 for  keyboard : ')
     control=int(input())
 
     if control == 1 :
-        print('Ask me anything')
+        print('Ask me anything ')
+        say('Sir you can choose the services given below')
+        say('Askking time,greeting,daily task,chanting bhajans,reading news,opening social media,weather report,motivate me,send email to friend,send whatsapp message,play games and call your friend')
         querry=takecomand()#we will update the voice settings soon 
+
+        if 'time' in querry :
+            asking_time()
         
+        elif 'greeting' in querry:
+            greet()
+        
+        elif 'daily task' in querry:
+            open_something()
+        
+        elif 'bhajans' in querry:
+            play_bhajans()
+        
+        elif 'news' in querry:
+            news()
+        
+        elif 'social media' in querry:
+            open_something()
+        
+        elif 'weather' in querry:
+            weather()
+        
+        elif 'motivate me' in querry:
+            getquotes()
+        
+        elif 'email' in querry:
+            send_email()
+        
+        elif 'whatsapp' in querry:
+            send_whatsappmsg()
+
+        else:
+            say('sorry sir i cant able to process your request either the sevice is not currently available or problem has occured please try again')
+            print("Please try again sir")
+
     elif control == 2 :
         print('Please tell Me how i can help you\n')
         print('1.Asking TIme \t 2. Greeting \t 3. Daily Task \t 4.Chanting Bhajans\t 5. Reading News\t 6.Opening Social Media')
         print('7. Weather Report \t 8.Motivate Me 9.Send Email to friend  \t 10.Sending Messages through whatsapp\t 11.Play games  \t12.Call Your friend\t')
          
-        want_choice=int(input('Select choice'))
+        want_choice=int(input('Select choice : '))
 
         if want_choice == 1 :
             asking_time()
